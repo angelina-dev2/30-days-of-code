@@ -1,19 +1,24 @@
-# Day 1 Hello World in C
 
-My first project in my 30 Days of Coding Challenge!
+# Day 1 - Hello World in C
+
+My first project in my 30 Days of Code challenge!
+
+## About
+A simple C program that prints messages to the terminal.
 
 ## Language
-C
+- C
 
-## What I learned
-Basic C programming structure
-compiling and running C language
+## What I Learned
+- Basic C program structure
+- Using printf()
+- Compiling and running a C program
 
 ## How to Run
-Compile the program
+Compile:
     gcc hello.c -o hello
 
-Run it on windows:
+Run on Windows:
     .\hello.exe
 
 ## Challenge
